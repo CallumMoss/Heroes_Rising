@@ -1,0 +1,3 @@
+- 2D game survival game, coded by Callum Moss, Satwik Kapoor and Tiya Umradia
+- Python file to be ran on https://py3.codeskulptor.org/
+- Alternatively, you can visit https://py3.codeskulptor.org/#user308_EFPLEd1KKg_40.py to run the file without the need to download the python file.
